@@ -173,7 +173,7 @@ O SHAP mostrou que o BERTimbau aprendeu que palavras como `"apenas"` e `"poderia
 
 ```bash
 # 1. Clone o repositório
-git clone https://github.com/seu-usuario/sentiment-analysis-ptbr.git
+git clone https://github.com/Lomba227/sentiment-analysis-ptbr.git
 
 # 2. Instale as dependências
 pip install pandas numpy matplotlib seaborn scikit-learn nltk transformers torch transformers-interpret
